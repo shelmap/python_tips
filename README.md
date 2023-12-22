@@ -3,7 +3,6 @@
 os is a module in Python that provides functions for interacting with the operating system.  
 Below is a detailed tutorial with code examples in Python using the os module.  
 This tutorial covers basic file and directory operations using the os module.  
-Remember that these operations can modify the file system, so be careful and use them wisely.
 
 1. Obtaining information about the current directory:
 ```python
